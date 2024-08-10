@@ -8,12 +8,12 @@ tags:
 # Testing DeviceHelper with PyTest
 
 
-|             |                                                                                                       |
-| ----------: | :-----------------------------------------------------------------------------------------------------|
-| Level       | beginner                                                                                              |
-| Repo        | [https://github.com/NetAutLabs/<repo name>](https://github.com/NetAutLabs/python_pytest_device_helper)|
-| Discussion  | [Discussion GitHub Repo](https://github.com/NetAutLabs/python_pytest_device_helper/discussions)       |
-| Codespaces  | :material-check: [GitHub Codespaces](https://codespaces.new/NetAutLabs/python_pytest_device_helper)   |
+|             |                                                                                                                       |
+| ----------: | :---------------------------------------------------------------------------------------------------------------------|
+| Level       | beginner                                                                                                              |
+| Repo        | [https://github.com/NetAutLabs/python_pytest_device_helper](https://github.com/NetAutLabs/python_pytest_device_helper)|
+| Discussion  | [Discussion GitHub Repo](https://github.com/NetAutLabs/python_pytest_device_helper/discussions)                       |
+| Codespaces  | :material-check: [GitHub Codespaces](https://codespaces.new/NetAutLabs/python_pytest_device_helper)                   |
 
 
 ## Lab Goal
